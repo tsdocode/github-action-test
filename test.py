@@ -1,1 +1,0 @@
-print("Thanh sang cute vcl")
